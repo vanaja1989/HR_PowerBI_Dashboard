@@ -1,2 +1,7 @@
 # HR_PowerBI_Dashboard
-This project aims to develop interactive and insightful dashboard using Power BI for HR departments to enhance data-driven decision-making. The dashboards will focus on key performance indicators, providing a visual representation of critical business metrics.
+
+•	I designed and built interactive dashboards using Power BI that bring key performance indicators to life, such as employee attrition rates and performance evaluations.
+•	By extracting and integrating various data sources, I ensured a smooth flow of information, making it easier for the HR team to analyse and report findings.
+•	I worked closely with HR stakeholders to pinpoint the most important metrics, actively incorporating their feedback to make sure the dashboards truly met their needs.
+•	To improve user experience, I added interactive features like filters and drill-down options, empowering HR professionals to explore the data on their own and uncover valuable insights.
+•	The real-time dashboards I developed significantly enhanced visibility into attrition rates and employee performance, ultimately supporting more informed, data-driven decisions within the HR teams
